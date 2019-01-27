@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserLoginDemo</string>
+    <string name="image">image</string>
+    <string name="email_id">email</string>
+    <string name="password">password</string>
+    <string name="login">LogIn</string>
+    <string name="sign_in">Not a member? Sign up!</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back">Back</string>
+    <string name="facebook_login_id">787733058243807</string>
+
+
+</resources>
